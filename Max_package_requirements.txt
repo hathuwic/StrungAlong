@@ -1,0 +1,4 @@
+MuBu for Max (IRCAM): https://forum.ircam.fr/projects/detail/mubu/
+CNMAT Externals (UC Berkeley): https://cnmat.berkeley.edu/downloads
+
+BOTH CAN ALSO BE DOWNLOADED DIRECTLY THROUGH THE MAX PACKAGE MANAGER

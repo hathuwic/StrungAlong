@@ -1,0 +1,6 @@
+[submodule "chroma-chord-generator"]
+	path = chroma-chord-generator
+	url = https://github.com/hathuwic/chroma-chord-generator
+[submodule "bow-tracker"]
+	path = bow-tracker
+	url = https://github.com/hathuwic/bow-tracker
